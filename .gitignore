@@ -6,3 +6,5 @@ _*.mp4
 _*.gif
 cydoomgeneric/
 temp_audio.mp3
+venv/
+.venv/

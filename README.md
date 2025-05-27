@@ -36,7 +36,11 @@ Pour des raisons matérielles, la croix gère deux modes de couleur :
 - Plasma - [plasma.py](src/plasma.py)
 - Rotozoom - [rotozoom.py](src/rotozoom.py)
 
-Pour installer les dépendances Python, exécutez la commande `pip install -r requirements.txt`
+Pour installer les dépendances Python, exécutez les commandes :
+
+- `python -m venv venv`
+- `source ./venv/bin/activate`
+- `pip install -r requirements.txt`
 
 ## Une idée à ajouter ?
 
